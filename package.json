@@ -1,0 +1,13 @@
+{
+  "name": "lib_importmetaurl_dot",
+  "version": "0.0.1",
+  "description": "Test and example library for `new URL('.', import.meta.url)` expression",
+  "author": "fend25",
+  "license": "MIT",
+  "repository": "https://github.com/fend25/lib_importmetaurl_dot_example.git",
+  "type": "module",
+  "main": "index.cjs",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "private": false
+}
